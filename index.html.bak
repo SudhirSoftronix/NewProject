@@ -1,9 +1,32 @@
-<frameset rows="20%,65%,15%">
+<<<<<<< HEAD
+<frameset rows="20%,65%,17%">
 	<frame src="header.html"/>
-	 
 	<frameset cols="20%,80%">
 		<frame src="welcome.html"/>
 		<frame src="menu.html"/>
      </frameset>
 	 <frame src="footer.html"/>
 </frameset>
+=======
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="main">
+      <div class="username">
+        <input type="text" placeholder="username" />
+      </div>
+      <div class="password">
+        <input type="text" name="" id="" placeholder="password" />
+      </div>
+      <div class="login"><button>LOGIN</button></div>
+      <div class="subtitle"><p>Not Registered? create an account</p></div>
+    </div>
+  </body>
+</html>
+>>>>>>> 3da89413b4bb6c0df3bc77cf7011fb9a69986c01
